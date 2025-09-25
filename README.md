@@ -31,6 +31,10 @@ trainer = Trainer(RandomForestClassifier())
 trainer.train(X_train, y_train)
 print("Accuracy:", trainer.evaluate(X_test, y_test))
 ```
+## 💬 Join the Discussion
+Have ideas, feedback, or questions about BrainTrain?  
+Check out our first [GitHub Discussion](../../discussions) and join the conversation!
+
 
 ## License
 
